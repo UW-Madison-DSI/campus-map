@@ -1,6 +1,6 @@
 <p align="center">
 	<div align="center">
-		<img src="./images/icon.svg" alt="Logo" style="width:33%">
+		<img src="./images/icon.svg" alt="Logo" style="width:200px">
 	</div>
 </p>
 
